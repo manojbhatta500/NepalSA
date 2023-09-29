@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376865435309",
+    "project_id": "nepalsa-b1aa2",
+    "storage_bucket": "nepalsa-b1aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376865435309:android:a4af2bd9c67c8d14e12024",
+        "android_client_info": {
+          "package_name": "com.example.nepalsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfRd_bA8oRL-N9qJuf4fi-wjxJAXxjDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
