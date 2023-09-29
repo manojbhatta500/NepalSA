@@ -1,11 +1,11 @@
-#Nepal SA - Nepali Student Association Messaging App
+# Nepal SA - Nepali Student Association Messaging App
 
 Nepal SA is a messaging app designed for Nepali students at Amritsir College of Engineering and Technology, providing a platform for group communication among Nepali students and NSA (Nepali Student Association) members. This README file provides essential information for users of the Nepal SA app.
 
 ![intro](screenshots/intro.png)
 
 
-#Features
+# Features
 
 #Group Chatting: Connect with fellow Nepali students and NSA members through group chat, enabling mass communication for important updates and discussions.
 
@@ -34,24 +34,24 @@ If you are an existing user, simply enter your login credentials and click "Logi
 Usage
 
 
-#Login
+# Login
 Use your registered email and password to log in to the app.
 ![loginscreen](screenshots/login.png)
 
 
 
-#Signup
+# Signup
 If you are a new user, click on "Signup" and fill in the required details to create an account.
 Home Screen
 After logging in, you will be directed to the  group chats.
 ![loginscreen](screenshots/signup.png)
 
-#Messaging
+# Messaging
 Send and receive messages within the group chat.
 ![loginscreen](screenshots/chatscreen2.png)
 
 
-#Signout
+# Signout
 To log out of the app, go to the settings or profile section and select "Sign Out."
 Future Enhancements
 In future versions of Nepal SA, we plan to implement the following features:
